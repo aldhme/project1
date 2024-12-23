@@ -1,2 +1,2 @@
-# project1
+# example data 1
 Data analysis
